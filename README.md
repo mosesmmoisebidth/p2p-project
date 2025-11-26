@@ -1,5 +1,12 @@
 # Smart Procure-to-Pay (Smart P2P) – Documentation
+<h4>Note: If you want to set it up Locally i highly adivse you to clone the individual Repos not this high level one otherwise visit them through the Public Links For Demos Look through the Part2. Environment & Variables there are credentials for admin to test and clients to test on the frontend url
+  For Local or Cloning
+  Frontend: https://github.com/mosesmmoisebidth/ist-procure-to-pay-client.git
+  Backend: https://github.com/mosesmmoisebidth/procure-to-pay.git
 
+  Check he Live urls under the Environment & Urls and make conclusive test
+  Feel free to reach me out for any questions
+</h4>
 ## Table of Contents
 
 - [1. Smart P2P Overview](#1-smart-p2p-overview)
