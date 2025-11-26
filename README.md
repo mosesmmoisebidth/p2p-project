@@ -81,6 +81,10 @@ The platform combines a Django REST API, a React/Vite front-end, Firebase Storag
 | Grafana dashboards | https://p2p-grafana.moses.it.com | Visualizations for performance & business metrics |
 | Prometheus metrics | https://p2p-prometheus.moses.it.com | Raw metrics scraped from Django |
 
+<h2>Note: This is a High Level Detailed Project Combined if you want to set it up locally i advise you to clone the Backend: https://github.com/mosesmmoisebidth/procure-to-pay.git; Frontend: https://github.com/mosesmmoisebidth/ist-procure-to-pay-client.git; Documentation: https://github.com/mosesmmoisebidth/p2p-docs.git; </h2>
+<h3>For a detailed documentation on the Project visit this Documentation: https://mosesmmoisebidth.github.io/p2p-docs/</h3>
+
+
 ### 2.1 Demo credentials (click to reveal)
 
 _Internal demo credentials shared only within the Smart P2P dev team._
