@@ -90,6 +90,7 @@ The platform combines a Django REST API, a React/Vite front-end, Firebase Storag
 | Frontend (Smart P2P UI) | https://p2p.moses.it.com | React-based portal for Staff, Approvers, Finance |
 | Backend API & Swagger docs | https://p2p-api.moses.it.com/api/docs | Django REST API, swagger UI |
 | Admin UI | https://p2p-api.moses.it.com/admin | Admin For the site |
+| Detailed Documentation | https://mosesmmoisebidth.github.io/p2p-docs/  | Detailed Well Visual Documentation |
 | Grafana dashboards | https://p2p-grafana.moses.it.com | Visualizations for performance & business metrics |
 | Prometheus metrics | https://p2p-prometheus.moses.it.com | Raw metrics scraped from Django |
 
