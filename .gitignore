@@ -31,7 +31,6 @@ Thumbs.db
 .mypy_cache/
 .pytest_cache/
 pip-wheel-metadata/
-procure-to-pay-client/
 
 # Coverage
 .coverage
