@@ -48,4 +48,7 @@ coverage.xml
 node_modules/
 *.tsbuildinfo
 
+procure-to-pay-backend/firebase_service_account.json
+
+
 logs/
